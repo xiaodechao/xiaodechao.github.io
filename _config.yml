@@ -1,6 +1,6 @@
 # Site settings
 title: xiao Blog
-SEOTitle: 肖德超的博客 | 肖博客
+SEOTitle: 肖德超的博客 | 肖的博客
 header-img: img/post-bg-desk.jpg
 email: 2386866603@qq.com
 description: "Every failure is leading towards success."
@@ -98,16 +98,16 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: ""
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: ""
     },{
         title: "Apple",
-        href: "https://apple.com"
+        href: ""
     },{
         title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        href: ""
     }
 ]
 
